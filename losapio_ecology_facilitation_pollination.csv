@@ -1,0 +1,472 @@
+﻿id,order,suborder,family,subfamily,genus,in.guild,species,group,in.code,plant,fl.fam,pl.code,date,foundation,microh,plot,repl
+1,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Hormathophylla spinosa,Brassicaceae,horspi,20150710,s,w,14,3
+2,Lepidoptera,Rhopalocera,Lycaenidae,Polyommatinae,Polyommatus,pollinator,icarus,butterfly,polica,Lotus corniculatus subsp glacialis,Fabaceae,lotcor,20150715,s,o,14,4
+3,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150708,h,w,14,2
+4,Hymenoptera,Aculeata,Apidae,Apinae,Bombus,pollinator,terrestris lusitanicus,bumblebee,bomlus,Leucanthemopsis pectinata,Asteraceae,leupec,20150707,s,o,13,1
+5,Hemiptera,Heteroptera,Lygaeidae,Lygaeinae,Spilostethus,herbivore,pandurus,bee,spipan,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150709,h,a,13,2
+6,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Hormathophylla spinosa,Brassicaceae,horspi,20150708,s,a,2,2
+7,Diptera,Brachycera,Syrphidae,Syrphinae,Scaeva,pollinator,albomaculata,hoverfly,scaalb,Hormathophylla spinosa,Brassicaceae,horspi,20150711,s,w,3,3
+8,Hymenoptera,Aculeata,Megachilidae,Megachilinae,Megachile,pollinator,parietina,bee,megpar,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150716,h,o,8,5
+9,Hymenoptera,parasitica,Braconidae,Braconinae,Bracon,parasitoid,spA,,braspa,Hormathophylla spinosa,Brassicaceae,horspi,20150706,s,a,9,1
+10,Coleoptera,Polyphaga,Chrysomelidae,Galerucinae,Galeruca,herbivore,sp,,galesp,Hormathophylla spinosa,Brassicaceae,horspi,20150706,s,a,9,1
+11,Diptera,Brachycera,Syrphidae,Syrphinae,Scaeva,pollinator,albomaculata,hoverfly,scaalb,Hormathophylla spinosa,Brassicaceae,horspi,20150716,s,w,2,5
+12,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Sideritis glacialis,Lamiaceae,sidgla,20150724,h,o,5,8
+13,Lepidoptera,Rhopalocera,Nymphalidae,Nymphalinae,Nymphalis,pollinator,urticae,butterfly,nymurt,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150717,h,a,1,5
+14,Diptera,Nematocera,Bibionidae,Bibioninae,Dilophus,scavenger,femoratus,,dilfem,Jasione amethystina,Campanulaceae,jasame,20150710,h,w,11,3
+15,Hymenoptera,Aculeata,Megachilidae,Megachilinae,Megachile,pollinator,sp,bee,megasp,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150708,h,o,7,2
+16,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Sideritis glacialis,Lamiaceae,sidgla,20150717,h,o,5,5
+17,Diptera,Brachycera,Tabanidae,Tabaninae,Haematopota,predator,sp,,haemsp,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150724,h,a,7,8
+18,Diptera,Brachycera,Sarcophagidae,Paramacronychiinae,Wohlfahrtia,pollinator,bella,fly,wohbel,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150710,h,a,12,3
+19,Diptera,Brachycera,Muscidae,Muscinae,Neomyia,pollinator,cornicina,fly,neocor,Hormathophylla spinosa,Brassicaceae,horspi,20150719,s,a,8,6
+20,Diptera,Brachycera,Muscidae,Azeliinae,Thricops,pollinator,culminum,fly,thrcul,Leucanthemopsis pectinata,Asteraceae,leupec,20150708,s,o,13,2
+21,Coleoptera,Polyphaga,Malachiidae,Malachiinae,spB,herbivore,spB,,malspb,Leucanthemopsis pectinata,Asteraceae,leupec,20150708,s,o,13,2
+22,Diptera,Brachycera,Syrphidae,Eristalinae,Eristalis,pollinator,tenax,hoverfly,eriten,Hormathophylla spinosa,Brassicaceae,horspi,20150714,s,w,2,4
+23,Coleoptera,Polyphaga,Chrysomelidae,Galerucinae,Galeruca,herbivore,sp,,galesp,Hormathophylla spinosa,Brassicaceae,horspi,20150706,s,w,1,1
+24,Coleoptera,Polyphaga,Chrysomelidae,Galerucinae,Galeruca,herbivore,sp,,galesp,Hormathophylla spinosa,Brassicaceae,horspi,20150706,s,w,1,1
+25,Hymenoptera,parasitica,Braconidae,Cheloninae,Chelonus,parasitoid,spA,,chespa,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150716,h,a,8,5
+26,Hymenoptera,Aculeata,Megachilidae,Megachilinae,Anthidium,pollinator,montanum,bee,antmon,Lotus corniculatus subsp glacialis,Fabaceae,lotcor,20150727,s,o,14,9
+27,Coleoptera,Polyphaga,Malachiidae,Malachiinae,spB,predator,spB,,malspb,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150714,h,w,13,4
+28,Diptera,Nematocera,Sciaridae,sp,sp,scavenger,sp,,sciasp,Hormathophylla spinosa,Brassicaceae,horspi,20150708,s,a,3,2
+29,Diptera,Brachycera,Syrphidae,Syrphinae,Scaeva,pollinator,albomaculata,hoverfly,scaalb,Hormathophylla spinosa,Brassicaceae,horspi,20150716,s,w,6,5
+30,Diptera,Brachycera,Chloropidae,sp,sp,herbivore,sp,,chlsp,Hormathophylla spinosa,Brassicaceae,horspi,20150716,s,w,6,5
+31,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150706,h,w,13,1
+32,Diptera,Brachycera,Bombyliidae,spB,spB,pollinator,spB,fly,bomspb,Jasione amethystina,Campanulaceae,jasame,20150706,h,w,3,1
+33,Hymenoptera,Aculeata,Megachilidae,Malachiinae,Hoplitis,pollinator,mitis granadae,bee,hopmit,Jasione amethystina,Campanulaceae,jasame,20150714,s,w,11,4
+34,Hymenoptera,Aculeata,Crabronidae,sp,sp,predator,sp,,crabsp,Jasione amethystina,Campanulaceae,jasame,20150710,h,w,3,3
+35,Hemiptera,Heteroptera,Lygaeidae,Lygaeinae,Spilostethus,herbivore,pandurus,,spipan,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150706,h,a,3,1
+36,Lepidoptera,Glossata,Scythrididae,Scythridinae,Scythris,pollinator,iberica,butterfly,scyibe,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150717,h,a,7,5
+37,Lepidoptera,Glossata,Scythrididae,Scythridinae,Scythris,pollinator,iberica,butterfly,scyibe,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150710,h,w,11,3
+38,Diptera,Brachycera,Tachinidae,Exoristinae,Meigenia,parasitoid,majuscula,,meimaj,Lotus corniculatus subsp glacialis,Fabaceae,lotcor,20150706,h,w,13,1
+39,Diptera,Brachycera,Sepsidae,Sepsinae,Sepsis,scavenger,neocynipsea,,sepneo,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150715,h,w,1,4
+40,Hymenoptera,Aculeata,Andrenidae,Andreninae,Andrena,pollinator,agilissima,bee,andagi,Hormathophylla spinosa,Brassicaceae,horspi,20150716,s,a,9,5
+41,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150708,h,a,1,2
+42,Hymenoptera,parasitica,Ichneumonidae,Cryptinae,Gelis,parasitoid,fossae,,gelfos,Hormathophylla spinosa,Brassicaceae,horspi,20150706,s,w,2,1
+43,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150707,h,a,8,1
+44,Hymenoptera,Aculeata,Megachilidae,Megachilinae,Hoplitis,pollinator,mitis granadae,bee,hopmit,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150708,h,o,2,2
+45,Diptera,Brachycera,Bombyliidae,spB,spB,pollinator,spB,fly,bomspb,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150709,h,a,11,2
+46,Hymenoptera,Aculeata,Vespidae,Eumeninae,Ancistrocerus,predator,biphaleratus,,ancbip,Hormathophylla spinosa,Brassicaceae,horspi,20150724,s,a,13,8
+47,Hymenoptera,Aculeata,Formicidae,sp,sp,herbivore,sp,,formsp,Hormathophylla spinosa,Brassicaceae,horspi,20150724,s,a,13,8
+48,Hymenoptera,Aculeata,Apidae,Apinae,Bombus,pollinator,terrestris lusitanicus,bumblebee,bomlus,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150708,h,o,9,2
+49,Hymenoptera,parasitica,Ichneumonidae,Cryptinae,Gelis,parasitoid,fossae,,gelfos,Jasione amethystina,Campanulaceae,jasame,20150709,h,w,11,2
+50,Diptera,Brachycera,Rhinophoridae,sp,Phyto,parasitoid,sp,,phytsp,Hormathophylla spinosa,Brassicaceae,horspi,20150710,s,a,1,3
+51,Diptera,Brachycera,Syrphidae,Eristalinae,Eumerus,pollinator,tarsalis,hoverfly,eumtar,Jasione amethystina,Campanulaceae,jasame,20150710,h,o,2,3
+52,Hymenoptera,Aculeata,Andrenidae,Panurginae,Panurgus,pollinator,cephalotes,bee,pancep,Leucanthemopsis pectinata,Asteraceae,leupec,20150727,s,o,13,9
+53,Lepidoptera,Glossata,Scythrididae,Scythridinae,Scythris,pollinator,iberica,butterfly,scyibe,Leucanthemopsis pectinata,Asteraceae,leupec,20150727,s,o,13,9
+54,Hymenoptera,Aculeata,Megachilidae,Megachilinae,Hoplitis,pollinator,mitis granadae,bee,hopmit,Lotus corniculatus subsp glacialis,Fabaceae,lotcor,20150717,s,w,14,5
+55,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Hormathophylla spinosa,Brassicaceae,horspi,20150706,s,a,2,1
+56,Diptera,Brachycera,Tachinidae,Tachininae,Macquartia,parasitoid,tessellum,,mactes,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150709,h,w,10,2
+57,Hymenoptera,Aculeata,Halictidae,Halictinae,Lasioglossum,pollinator,cupromicans,bee,lascup,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150709,h,w,10,2
+58,Diptera,Brachycera,Syrphidae,Syrphinae,Scaeva,pollinator,albomaculata,hoverfly,scaalb,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150706,h,a,12,1
+59,Hymenoptera,Aculeata,Formicidae,sp,sp,herbivore,sp,,formsp,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150708,h,w,2,2
+60,Diptera,Brachycera,Muscidae,Azeliinae,Thricops,pollinator,culminum,fly,thrcul,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150708,h,w,2,2
+61,Diptera,Brachycera,Rhinophoridae,sp,Phyto,parasitoid,sp,,phytsp,Jasione amethystina,Campanulaceae,jasame,20150708,h,w,1,2
+62,Hymenoptera,Aculeata,Crabronidae,sp,sp,predator,sp,,crabsp,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150710,h,w,9,3
+63,Hymenoptera,Aculeata,Apidae,Apinae,Bombus,pollinator,vestalis,bee,bomves,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150715,h,a,8,4
+64,Hymenoptera,Aculeata,Megachilidae,Megachilinae,Hoplitis,pollinator,mitis granadae,bee,hopmit,Sideritis glacialis,Lamiaceae,sidgla,20150708,h,w,9,2
+65,Hymenoptera,Aculeata,Megachilidae,Megachilinae,Megachile,pollinator,sp,bee,megasp,Sideritis glacialis,Lamiaceae,sidgla,20150708,h,w,9,2
+66,Hymenoptera,Aculeata,Apidae,Apinae,Bombus,pollinator,terrestris lusitanicus,bee,bomlun,Sideritis glacialis,Lamiaceae,sidgla,20150727,s,o,8,9
+67,Hymenoptera,Aculeata,Megachilidae,Megachilinae,Hoplitis,pollinator,mitis granadae,bee,hopmit,Jasione amethystina,Campanulaceae,jasame,20150707,h,w,6,1
+68,Hymenoptera,Aculeata,Colletidae,Hylaeinae,Hylaeus,pollinator,ibericus,bee,hylibe,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150708,h,a,1,2
+69,Hymenoptera,Aculeata,Megachilidae,Megachilinae,Anthidium,pollinator,montanum,bee,antmon,Hormathophylla spinosa,Brassicaceae,horspi,20150717,s,a,7,5
+70,Hymenoptera,Aculeata,Halictidae,Halictinae,Lasioglossum,pollinator,cupromicans,bee,lascup,Hormathophylla spinosa,Brassicaceae,horspi,20150717,s,a,7,5
+71,Diptera,Brachycera,Bombyliidae,spA,spA,pollinator,spA,fly,bomspa,Hormathophylla spinosa,Brassicaceae,horspi,20150716,s,w,9,5
+72,Hymenoptera,Aculeata,Megachilidae,Megachilinae,Megachile,pollinator,parietina,bee,megpar,Lotus corniculatus subsp glacialis,Fabaceae,lotcor,20150717,s,o,14,5
+73,Hymenoptera,Aculeata,Apidae,Apinae,Bombus,pollinator,terrestris terrestris,bee,bomter,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150707,h,w,8,1
+74,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150707,h,w,8,1
+75,Coleoptera,Polyphaga,Buprestidae,Agrilinae,Agrilus,herbivore,spA,,agrspa,Sideritis glacialis,Lamiaceae,sidgla,20150718,h,w,9,6
+76,Lepidoptera,Glossata,Scythrididae,Scythridinae,Scythris,pollinator,iberica,butterfly,scyibe,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150718,s,w,3,6
+77,Lepidoptera,Glossata,Scythrididae,Scythridinae,Scythris,pollinator,iberica,butterfly,scyibe,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150718,s,w,3,6
+78,Hemiptera,Heteroptera,Lygaeidae,Lygaeinae,Spilostethus,herbivore,pandurus,,spipan,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150706,h,a,12,1
+79,Hymenoptera,Aculeata,Megachilidae,Megachilinae,Megachile,pollinator,parietina,bee,megpar,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150715,h,o,1,4
+80,Lepidoptera,Glossata,Scythrididae,Scythridinae,Scythris,pollinator,iberica,butterfly,scyibe,Leucanthemopsis pectinata,Asteraceae,leupec,20150727,s,o,13,9
+81,Lepidoptera,Glossata,Scythrididae,Scythridinae,Scythris,pollinator,iberica,butterfly,scyibe,Leucanthemopsis pectinata,Asteraceae,leupec,20150727,s,o,13,9
+82,Hymenoptera,Aculeata,Andrenidae,Andreninae,Andrena,pollinator,carbonaria,bee,andcar,Hormathophylla spinosa,Brassicaceae,horspi,20150708,s,a,11,2
+83,Diptera,Brachycera,Syrphidae,Syrphinae,Scaeva,pollinator,albomaculata,hoverfly,scaalb,Hormathophylla spinosa,Brassicaceae,horspi,20150707,s,a,14,1
+84,Diptera,Brachycera,Muscidae,Phaoniinae,Phaonia,pollinator,scutellata,fly,phascu,Hormathophylla spinosa,Brassicaceae,horspi,20150707,s,a,14,1
+85,Diptera,Brachycera,Bombyliidae,spA,spA,pollinator,spA,fly,bomspa,Hormathophylla spinosa,Brassicaceae,horspi,20150716,s,a,6,5
+86,Hymenoptera,Aculeata,Apidae,Apinae,Bombus,pollinator,terrestris terrestris,bee,bomter,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150708,h,a,7,2
+87,Hymenoptera,Aculeata,Halictidae,Halictinae,Lasioglossum,pollinator,cupromicans,bee,lascup,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150708,h,a,7,2
+88,Hymenoptera,Aculeata,Megachilidae,Megachilinae,Hoplitis,pollinator,ravouxi,bee,hoprav,Lotus corniculatus subsp glacialis,Fabaceae,lotcor,20150711,s,w,14,3
+89,Diptera,Nematocera,Sciaridae,sp,sp,scavenger,sp,,sciasp,Jasione amethystina,Campanulaceae,jasame,20150707,h,w,10,1
+90,Hymenoptera,parasitica,Braconidae,Braconinae,Bracon,parasitoid,spA,,braspa,Hormathophylla spinosa,Brassicaceae,horspi,20150707,s,w,8,1
+91,Hymenoptera,Aculeata,Andrenidae,Panurginae,Panurgus,pollinator,cephalotes,bee,pancep,Leucanthemopsis pectinata,Asteraceae,leupec,20150727,s,o,5,9
+92,Diptera,Brachycera,Syrphidae,Eristalinae,Eristalis,pollinator,tenax,hoverfly,eriten,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150714,h,a,14,4
+93,Hymenoptera,parasitica,Eurytomidae,Eurytominae,Bruchophagus,herbivore,sp,,bruchsp,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150707,h,o,10,1
+94,Lepidoptera,Glossata,Scythrididae,Scythridinae,Scythris,pollinator,iberica,butterfly,scyibe,Crepis oporinoides,Asteraceae,creopo,20150724,s,o,14,8
+95,Hymenoptera,Aculeata,Halictidae,Halictinae,Lasioglossum,pollinator,cupromicans,bee,lascup,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150706,h,o,7,1
+96,Hymenoptera,Aculeata,Andrenidae,Panurginae,Panurgus,pollinator,cephalotes,bee,pancep,Leontodon boryi,Asteraceae,leobor,20150719,h,w,14,6
+97,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150707,h,a,1,1
+98,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150707,h,a,1,1
+99,Hymenoptera,parasitica,Braconidae,Cheloninae,Chelonus,parasitoid,spA,,chespa,Lotus corniculatus subsp glacialis,Fabaceae,lotcor,20150715,s,o,14,4
+100,Hymenoptera,parasitica,Ichneumonidae,Cryptinae,Gelis,parasitoid,fossae,,gelfos,Hormathophylla spinosa,Brassicaceae,horspi,20150708,s,a,6,2
+101,Diptera,Brachycera,Syrphidae,Eristalinae,Eristalis,pollinator,tenax,hoverfly,eriten,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150714,h,w,9,4
+102,Hymenoptera,Aculeata,Halictidae,Halictinae,Lasioglossum,pollinator,cupromicans,bee,lascup,Chaenorhinum glareosum,Scrophulariaceae,chagla,20150706,s,w,3,1
+103,Diptera,Brachycera,Muscidae,Phaoniinae,Helina,pollinator,annosa,fly,phaann,Hormathophylla spinosa,Brassicaceae,horspi,20150708,s,a,13,2
+104,Coleoptera,Polyphaga,Melyridae,Dasytinae,Enicopus,pollinator,sp,other,enicsp,Hormathophylla spinosa,Brassicaceae,horspi,20150708,s,w,2,2
+105,Diptera,Brachycera,Bombyliidae,spB,spB,pollinator,spB,fly,bomspb,Lotus corniculatus subsp glacialis,Fabaceae,lotcor,20150706,h,w,12,1
+106,Hymenoptera,parasitica,Braconidae,Braconinae,Bracon,parasitoid,spB,,braspb,Hormathophylla spinosa,Brassicaceae,horspi,20150708,s,a,1,2
+107,Hymenoptera,Aculeata,Bethylidae,sp,sp,parasitoid,sp,,bethsp,Hormathophylla spinosa,Brassicaceae,horspi,20150708,s,a,1,2
+108,Hymenoptera,parasitica,Ichneumonidae,Cryptinae,Gelis,parasitoid,fossae,,gelfos,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150706,h,o,3,1
+109,Hymenoptera,Aculeata,Halictidae,Halictinae,Lasioglossum,pollinator,cupromicans,bee,lascup,Leucanthemopsis pectinata,Asteraceae,leupec,20150716,h,w,6,5
+110,Hymenoptera,parasitica,Ichneumonidae,Cryptinae,Gelis,parasitoid,fossae,,gelfos,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150715,h,w,6,4
+111,Hymenoptera,Aculeata,Anthophoridae,Xylocopinae,Xylocopa,pollinator,valga,bee,xylval,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150716,h,w,12,5
+112,Diptera,Brachycera,Syrphidae,Eristalinae,Eristalis,pollinator,tenax,hoverfly,eriten,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150710,h,a,7,3
+113,Hymenoptera,parasitica,Ichneumonidae,Cryptinae,Gelis,parasitoid,forticornis,,gelfor,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150710,h,a,7,3
+114,Coleoptera,Endopterygota,Buprestidae,Agrilinae,Agrilus,herbivore,spB,,agrspb,Sideritis glacialis,Lamiaceae,sidgla,20150715,s,o,8,4
+115,Coleoptera,Endopterygota,Buprestidae,Agrilinae,Agrilus,herbivore,spA,,agrspa,Sideritis glacialis,Lamiaceae,sidgla,20150715,s,o,8,4
+116,Hymenoptera,Aculeata,Pompilidae,spC,spC,predator,spC,,pomspc,Jasione amethystina,Campanulaceae,jasame,20150706,h,o,12,1
+117,Hemiptera,Heteroptera,Lygaeidae,Lygaeinae,Spilostethus,herbivore,pandurus,,spipan,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150708,h,a,2,2
+118,Hymenoptera,Aculeata,Halictidae,Halictinae,Halictus,pollinator,gemmeus,bee,halgem,Jasione amethystina,Campanulaceae,jasame,20150707,s,o,5,1
+119,Hymenoptera,Aculeata,Megachilidae,Megachilinae,Hoplitis,pollinator,mitis granadae,bee,hopmit,Jasione amethystina,Campanulaceae,jasame,20150706,h,w,12,1
+120,Lepidoptera,Glossata,Scythrididae,Scythridinae,Scythris,pollinator,iberica,butterfly,scyibe,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150709,h,a,6,2
+121,Hymenoptera,Aculeata,Colletidae,Colletinae,Colletes,pollinator,schmidi,bee,colsch,Hormathophylla spinosa,Brassicaceae,horspi,20150727,s,a,8,9
+122,Hymenoptera,parasitica,Ichneumonidae,Campopleginae,sp,parasitoid,sp,,campsp,Hormathophylla spinosa,Brassicaceae,horspi,20150719,s,a,1,6
+123,Diptera,Brachycera,Bombyliidae,spB,spB,pollinator,spB,fly,bomspb,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150715,h,a,10,4
+124,Diptera,Nematocera,Sciaridae,sp,sp,scavenger,sp,,sciasp,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150717,h,w,1,5
+125,Lepidoptera,Glossata,Scythrididae,Scythridinae,Scythris,pollinator,iberica,butterfly,scyibe,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150717,h,w,1,5
+126,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Hormathophylla spinosa,Brassicaceae,horspi,20150707,s,w,14,1
+127,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Hormathophylla spinosa,Brassicaceae,horspi,20150707,s,a,4,1
+128,Hymenoptera,parasitica,Braconidae,Braconinae,Bracon,parasitoid,spA,,braspa,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150708,s,w,6,2
+129,Lepidoptera,Glossata,Scythrididae,Scythridinae,Scythris,pollinator,iberica,butterfly,scyibe,Leucanthemopsis pectinata,Asteraceae,leupec,20150724,s,w,5,8
+130,Diptera,Brachycera,Syrphidae,Eristalinae,Eristalis,pollinator,tenax,fly,eriten,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150708,h,w,7,2
+131,Hymenoptera,parasitica,Ichneumonidae,Cryptinae,Gelis,parasitoid,fossae,,gelfos,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150708,h,w,7,2
+132,Hymenoptera,parasitica,Ichneumonidae,Cryptinae,Gelis,parasitoid,fossae,,gelfos,Hormathophylla spinosa,Brassicaceae,horspi,20150708,s,w,6,2
+133,Hymenoptera,Parasitica,Ichneumonidae,Cryptinae,Gelis,parasitoid,forticornis,,gelfos,Hormathophylla spinosa,Brassicaceae,horspi,20150708,s,w,6,2
+134,Coleoptera,Polyphaga,Chrysomelidae,Galerucinae,Galeruca,herbivore,sp,,galesp,Hormathophylla spinosa,Brassicaceae,horspi,20150708,s,w,6,2
+135,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150716,h,a,6,5
+136,Coleoptera,Polyphaga,Malachiidae,Malachiinae,spA,predator,spA,,malspa,Leucanthemopsis pectinata,Asteraceae,leupec,20150714,s,w,13,4
+137,Hemiptera,Heteroptera,Lygaeidae,Lygaeinae,Spilostethus,herbivore,pandurus,,spipan,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150706,h,w,12,1
+138,Coleoptera,Polyphaga,Melyridae,Rhadalinae,Aplocnemus,herbivore,sp,,aplosp,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150706,h,w,12,1
+139,Hymenoptera,Aculeata,Mutilidae,sp,sp,pollinator,sp,bee,mutisp,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150706,h,w,12,1
+140,Hymenoptera,Parasitica,Eurytomidae,Eurytominae,Bruchophagus,herbivore,sp,,bruchsp,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150717,h,w,1,5
+141,Coleoptera,Polyphaga,Coccinellidae,Coccinellinae,Hippodamia,predator,sp,,hippsp,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150709,h,w,10,2
+142,Hymenoptera,Aculeata,Megachilidae,Megachilinae,Anthidium,pollinator,montanum,bee,antmon,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150709,h,w,10,2
+143,Hymenoptera,Parasitica,Braconidae,Cheloninae,Chelonus,parasitoid,spA,,chespa,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150715,h,a,11,4
+144,Coleoptera,Polyphaga,Meloidae,Meloinae,Mylabris,parasitoid,sp,,mylasp,Leontodon boryi,Asteraceae,leobor,20150727,h,w,14,9
+145,Hymenoptera,Parasitica,Ichneumonidae,Cryptinae,Gelis,parasitoid,fossae,,gelfos,Leontodon boryi,Asteraceae,leobor,20150710,s,o,10,3
+146,Hymenoptera,Aculeata,Andrenidae,Andreninae,Andrena,pollinator,agilissima,bee,andagi,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150727,h,w,14,9
+147,Hymenoptera,Aculeata,Halictidae,Rophitinae,Dufourea,pollinator,paradoxa nivalis,bee,dufpar,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150727,h,a,14,9
+148,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Hormathophylla spinosa,Brassicaceae,horspi,20150707,s,w,4,1
+149,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Hormathophylla spinosa,Brassicaceae,horspi,20150707,s,w,4,1
+150,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Hormathophylla spinosa,Brassicaceae,horspi,20150716,s,w,3,5
+151,Hymenoptera,Aculeata,Halictidae,Halictinae,Lasioglossum,pollinator,cupromicans,bee,lascup,Jasione amethystina,Campanulaceae,jasame,20150707,h,o,5,1
+152,Hymenoptera,Parasitica,Ichneumonidae,Cryptinae,Gelis,parasitoid,forticornis,,gelfor,Jasione amethystina,Campanulaceae,jasame,20150707,h,w,2,1
+153,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Hormathophylla spinosa,Brassicaceae,horspi,20150706,s,a,9,1
+154,Hymenoptera,Aculeata,Chrysididae,sp,sp,parasitoid,sp,,chrysp,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150709,h,o,3,2
+155,Lepidoptera,Glossata,Scythrididae,Scythridinae,Scythris,pollinator,iberica,butterfly,scyibe,Leontodon boryi,Asteraceae,leobor,20150707,h,o,5,1
+156,Hymenoptera,Aculeata,Andrenidae,Andreninae,Andrena,pollinator,micrandrena sp,bee,andmic,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150727,h,w,1,9
+157,Hymenoptera,Aculeata,Halictidae,Halictinae,Lasioglossum,pollinator,cupromicans,bee,lascup,Hormathophylla spinosa,Brassicaceae,horspi,20150715,s,a,14,4
+158,Lepidoptera,Glossata,Scythrididae,Scythridinae,Scythris,pollinator,iberica,butterfly,scyibe,Hormathophylla spinosa,Brassicaceae,horspi,20150715,s,a,14,4
+159,Diptera,Brachycera,Syrphidae,Syrphinae,Scaeva,pollinator,albomaculata,hoverfly,scaalb,Hormathophylla spinosa,Brassicaceae,horspi,20150706,s,w,9,1
+160,Hemiptera,Heteroptera,Lygaeidae,Lygaeinae,Spilostethus,herbivore,pandurus,,spipan,Hormathophylla spinosa,Brassicaceae,horspi,20150706,s,w,9,1
+161,Coleoptera,Polyphaga,Chrysomelidae,Galerucinae,Galeruca,herbivore,sp,,galesp,Hormathophylla spinosa,Brassicaceae,horspi,20150707,s,w,7,1
+162,Coleoptera,Polyphaga,Cantharidae,Malthininae,Malthinus,predator,sp,,maltsp,Hormathophylla spinosa,Brassicaceae,horspi,20150707,s,w,7,1
+163,Hymenoptera,Aculeata,Halictidae,Halictinae,Lasioglossum,pollinator,cupromicans,bee,lascup,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150714,s,w,2,4
+164,Diptera,Brachycera,Muscidae,Muscinae,Dasyphora,pollinator,pratorum,fly,daspra,Hormathophylla spinosa,Brassicaceae,horspi,20150716,s,a,11,5
+165,Lepidoptera,Glossata,Scythrididae,Scythridinae,Scythris,pollinator,iberica,butterfly,scyibe,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150727,h,w,1,9
+166,Diptera,Nematocera,Sciaridae,sp,sp,scavenger,sp,,sciasp,Biscutella glacialis,Brassicaceae,bisgla,20150706,s,w,2,1
+167,Hymenoptera,Aculeata,Pompilidae,spA,spA,predator,spA,,pomspa,Hormathophylla spinosa,Brassicaceae,horspi,20150727,s,w,8,9
+168,Lepidoptera,Glossata,Scythrididae,Scythridinae,Scythris,pollinator,iberica,butterfly,scyibe,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150724,h,a,14,8
+169,Diptera,Brachycera,Bombyliidae,spA,spA,pollinator,spA,fly,bomspa,Leucanthemopsis pectinata,Asteraceae,leupec,20150727,s,w,5,9
+170,Hymenoptera,Aculeata,Halictidae,Halictinae,Lasioglossum,pollinator,cupromicans,bee,lascup,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150709,h,a,5,2
+171,Coleoptera,Polyphaga,Chrysomelidae,Chrysomelinae,Timarcha,herbivore,sp,,timasp,Hormathophylla spinosa,Brassicaceae,horspi,20150716,s,w,12,5
+172,Hymenoptera,Aculeata,Colletidae,Colletinae,Colletes,pollinator,schmidi,bee,colsch,Lotus corniculatus subsp glacialis,Fabaceae,lotcor,20150727,h,w,13,9
+173,Hemiptera,Auchenorrhyncha,Cicadoidea,sp,sp,herbivore,sp,,cicasp,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150706,h,w,11,1
+174,Diptera,Brachycera,Muscidae,Muscinae,Musca,pollinator,vitripennis,fly,musvit,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150727,h,a,1,9
+175,Lepidoptera,Glossata,Scythrididae,Scythridinae,Scythris,pollinator,iberica,butterfly,scyibe,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150709,h,w,6,2
+176,Coleoptera,Polyphaga,Buprestidae,Agrilinae,Agrilus,herbivore,spA,,agrspa,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150715,h,w,10,4
+177,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150707,h,w,2,1
+178,Hymenoptera,Aculeata,Halictidae,Halictinae,Lasioglossum,pollinator,sp,bee,lasisp,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150707,h,w,2,1
+179,Diptera,Brachycera,Syrphidae,Syrphinae,Scaeva,pollinator,albomaculata,hoverfly,scaalb,Hormathophylla spinosa,Brassicaceae,horspi,20150711,s,w,8,3
+180,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150707,h,a,9,1
+181,Hemiptera,Heteroptera,Lygaeidae,Lygaeinae,Spilostethus,herbivore,pandurus,,spipan,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150709,h,a,3,2
+182,Diptera,Brachycera,Tachinidae,Exoristinae,Meigenia,parasitoid,majuscula,,meimaj,Hormathophylla spinosa,Brassicaceae,horspi,20150711,s,a,7,3
+183,Hymenoptera,Aculeata,Chrysididae,sp,sp,parasitoid,sp,,chrysp,Hormathophylla spinosa,Brassicaceae,horspi,20150710,s,a,9,3
+184,Diptera,Nematocera,Sciaridae,sp,sp,scavenger,sp,,sciasp,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150719,h,w,14,6
+185,Diptera,Brachycera,Syrphidae,Eristalinae,Eristalis,pollinator,tenax,hoverfly,eriten,Hormathophylla spinosa,Brassicaceae,horspi,20150709,s,a,5,2
+186,Hymenoptera,Aculeata,Pompilidae,spB,spB,predator,spB,,pomspb,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150710,h,a,3,3
+187,Diptera,Nematocera,Sciaridae,sp,sp,scavenger,sp,,sciasp,Hormathophylla spinosa,Brassicaceae,horspi,20150715,s,a,12,4
+188,Diptera,Brachycera,Sarcophagidae,Sarcophaginae,Sarcophaga,scavenger,nigriventris,,sarnig,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150709,h,a,11,2
+189,Hymenoptera,Aculeata,Andrenidae,Panurginae,Panurgus,pollinator,cephalotes,bee,pancep,Crepis oporinoides,Asteraceae,creopo,20150717,s,w,14,5
+190,Hymenoptera,Aculeata,Anthophoridae,Xylocopinae,Xylocopa,pollinator,valga,bee,xylval,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150711,h,w,6,3
+191,Hymenoptera,Aculeata,Colletidae,Hylaeinae,Hylaeus,pollinator,ibericus,bee,hylibe,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150711,h,w,6,3
+192,Hemiptera,Heteroptera,Lygaeidae,Lygaeinae,Spilostethus,herbivore,pandurus,,spipan,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150711,h,w,6,3
+193,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150716,h,a,9,5
+194,Coleoptera,Polyphaga,Coccinellidae,Scymninae,Scymnus,predator,sp,,scymsp,Jasione amethystina,Campanulaceae,jasame,20150706,h,o,4,1
+195,Araneae,Opisthothelae,Salticidae,sp,sp,predator,sp,,saltsp,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150706,h,a,11,1
+196,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150711,h,w,1,3
+197,Diptera,Brachycera,Sepsidae,Sepsinae,Sepsis,scavenger,thoracica,,septho,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150715,h,w,7,4
+198,Hymenoptera,Aculeata,Megachilidae,Megachilinae,Hoplitis,pollinator,ravouxi,bee,hoprav,Jasione amethystina,Campanulaceae,jasame,20150707,h,w,5,1
+199,Lepidoptera,Glossata,Scythrididae,Scythridinae,Scythris,pollinator,iberica,butterfly,scyibe,Jasione amethystina,Campanulaceae,jasame,20150707,h,w,5,1
+200,Hymenoptera,Aculeata,Vespidae,Eumeninae,Ancistrocerus,predator,scoticus,,ancsco,Hormathophylla spinosa,Brassicaceae,horspi,20150709,s,w,5,2
+201,Coleoptera,Polyphaga,Chrysomelidae,Chrysomelinae,Timarcha,herbivore,sp,,timasp,Hormathophylla spinosa,Brassicaceae,horspi,20150709,s,w,5,2
+202,Hymenoptera,Aculeata,Megachilidae,Megachilinae,Hoplitis,pollinator,mitis granadae,bee,hopmit,Jasione amethystina,Campanulaceae,jasame,20150706,h,o,11,1
+203,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Sideritis glacialis,Lamiaceae,sidgla,20150723,h,o,5,7
+204,Hymenoptera,Parasitica,Braconidae,Cheloninae,Ascogaster,parasitoid,grahami,,ascgra,Hormathophylla spinosa,Brassicaceae,horspi,20150724,s,a,14,8
+205,Diptera,Brachycera,Bombyliidae,spB,spB,pollinator,spB,fly,bomspb,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150710,h,w,12,3
+206,Lepidoptera,Glossata,Scythrididae,Scythridinae,Scythris,pollinator,iberica,butterfly,scyibe,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150724,h,a,5,8
+207,Lepidoptera,Glossata,Scythrididae,Scythridinae,Scythris,pollinator,iberica,butterfly,scyibe,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150724,h,a,5,8
+208,Lepidoptera,Glossata,Scythrididae,Scythridinae,Scythris,pollinator,iberica,butterfly,scyibe,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150724,h,a,5,8
+209,Hymenoptera,Aculeata,Halictidae,Halictinae,Lasioglossum,pollinator,cupromicans,bee,lascup,Lotus corniculatus subsp glacialis,Fabaceae,lotcor,20150709,s,o,8,2
+210,Diptera,Brachycera,Syrphidae,Syrphinae,Scaeva,pollinator,albomaculata,hoverfly,scaalb,Hormathophylla spinosa,Brassicaceae,horspi,20150710,s,w,9,3
+211,Hymenoptera,Parasitica,Braconidae,Cheloninae,Chelonus,parasitoid,spA,,chespa,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150707,h,w,9,1
+212,Diptera,Brachycera,Bombyliidae,spA,spA,pollinator,spA,fly,bomspa,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150723,h,w,7,7
+213,Coleoptera,Polyphaga,Malachiidae,Malachiinae,spA,predator,spA,,malspa,Leontodon boryi,Asteraceae,leobor,20150718,h,o,13,6
+214,Diptera,Brachycera,Muscidae,Azeliinae,Thricops,pollinator,culminum,fly,thrcul,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150717,h,w,4,5
+215,Lepidoptera,Glossata,Scythrididae,Scythridinae,Scythris,pollinator,iberica,butterfly,scyibe,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150706,h,w,3,1
+216,Lepidoptera,Glossata,Scythrididae,Scythridinae,Scythris,pollinator,iberica,butterfly,scyibe,Hormathophylla spinosa,Brassicaceae,horspi,20150706,s,w,12,1
+217,Diptera,Brachycera,Therevidae,sp,sp,pollinator,sp,fly,thersp,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150706,h,o,14,1
+218,Hemiptera,Heteroptera,Lygaeidae,Lygaeinae,Spilostethus,herbivore,pandurus,,spipan,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150706,h,o,14,1
+219,Diptera,Brachycera,Syrphidae,Eristalinae,Eristalis,pollinator,tenax,fly,eriten,Hormathophylla spinosa,Brassicaceae,horspi,20150716,s,a,12,5
+220,Diptera,Brachycera,Sepsidae,Sepsinae,Sepsis,scavenger,sp,,sepssp,Hormathophylla spinosa,Brassicaceae,horspi,20150716,s,a,12,5
+221,Lepidoptera,Glossata,Scythrididae,Scythridinae,Scythris,pollinator,iberica,butterfly,scyibe,Hormathophylla spinosa,Brassicaceae,horspi,20150706,s,a,10,1
+222,Coleoptera,Polyphaga,Chrysomelidae,Galerucinae,Galeruca,herbivore,sp,,galesp,Hormathophylla spinosa,Brassicaceae,horspi,20150706,s,a,10,1
+223,Hymenoptera,Parasitica,Ichneumonidae,Cryptinae,Gelis,parasitoid,fossae,,gelfos,Hormathophylla spinosa,Brassicaceae,horspi,20150708,s,w,3,2
+224,Hemiptera,Heteroptera,Lygaeidae,Lygaeinae,Spilostethus,herbivore,pandurus,,spipan,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150707,h,w,10,1
+225,Diptera,Brachycera,Syrphidae,Syrphinae,Scaeva,pollinator,albomaculata,fly,scaalb,Hormathophylla spinosa,Brassicaceae,horspi,20150707,s,a,13,1
+226,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Hormathophylla spinosa,Brassicaceae,horspi,20150707,s,a,13,1
+227,Hymenoptera,Parasitica,Ichneumonidae,Cryptinae,Gelis,parasitoid,fossae,,gelfos,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150714,s,w,3,4
+228,Diptera,Brachycera,Tachinidae,Tachininae,Macquartia,parasitoid,tessellum,,mactes,Hormathophylla spinosa,Brassicaceae,horspi,20150719,s,w,7,6
+229,Hymenoptera,Aculeata,Andrenidae,Andreninae,Andrena,pollinator,ovatula,bee,andova,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150709,h,w,12,2
+230,Diptera,Brachycera,Syrphidae,Syrphinae,Scaeva,pollinator,albomaculata,hoverfly,scaalb,Hormathophylla spinosa,Brassicaceae,horspi,20150724,s,a,6,8
+231,Hymenoptera,Parasitica,Braconidae,Cheloninae,Chelonus,parasitoid,spA,,chespa,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150719,h,w,3,6
+232,Diptera,Brachycera,Sepsidae,Sepsinae,Sepsis,scavenger,thoracica,,septho,Hormathophylla spinosa,Brassicaceae,horspi,20150723,s,w,14,7
+233,Lepidoptera,Glossata,Scythrididae,Scythridinae,Scythris,pollinator,iberica,butterfly,scyibe,Jasione amethystina,Campanulaceae,jasame,20150709,s,o,8,2
+234,Diptera,Brachycera,Bombyliidae,spB,spB,pollinator,spB,fly,bomspb,Jasione amethystina,Campanulaceae,jasame,20150708,h,w,7,2
+235,Coleoptera,Polyphaga,Malachiidae,Malachiinae,spA,predator,spA,,malspa,Crepis oporinoides,Asteraceae,creopo,20150718,s,w,8,6
+236,Diptera,Brachycera,Syrphidae,Eristalinae,Eristalis,pollinator,tenax,hoverfly,eriten,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150723,h,w,1,7
+237,Coleoptera,Polyphaga,Curculionidae,Curculioninae,Anisorrynchus,herbivore,sp,,anissp,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150706,h,a,13,1
+238,Diptera,Brachycera,Syrphidae,Eristalinae,Eristalis,pollinator,tenax,hoverfly,eriten,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150716,h,a,3,5
+239,Diptera,Nematocera,Sciaridae,sp,sp,scavenger,sp,,sciasp,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150716,h,a,12,5
+240,Diptera,Nematocera,Sciaridae,sp,sp,scavenger,sp,,sciasp,Crepis oporinoides,Asteraceae,creopo,20150715,s,w,8,4
+241,Hymenoptera,Aculeata,Megachilidae,Megachilinae,Megachile,pollinator,parietina,bee,megpar,Lotus corniculatus subsp glacialis,Fabaceae,lotcor,20150724,s,o,14,8
+242,Hymenoptera,Aculeata,Pompilidae,spC,spC,predator,spC,,pomspc,Hormathophylla spinosa,Brassicaceae,horspi,20150706,s,a,3,1
+243,Hymenoptera,Aculeata,Megachilidae,Megachilinae,Melanosmia,pollinator,sp,bee,melasp,Chaenorhinum glareosum,Scrophulariaceae,chagla,20150714,h,o,14,4
+244,Lepidoptera,Glossata,Scythrididae,Scythridinae,Scythris,pollinator,iberica,butterfly,scyibe,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150715,h,w,11,4
+245,Hymenoptera,Aculeata,Andrenidae,Andreninae,Andrena,pollinator,ovatula,bee,andova,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150714,s,o,11,4
+246,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Hormathophylla spinosa,Brassicaceae,horspi,20150707,s,w,13,1
+247,Hymenoptera,Aculeata,Megachilidae,Megachilinae,Megachile,pollinator,sp,bee,megasp,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150707,h,w,1,1
+248,Hemiptera,Heteroptera,Lygaeidae,Lygaeinae,Spilostethus,herbivore,pandurus,,spipan,Jasione amethystina,Campanulaceae,jasame,20150708,h,w,2,2
+249,Diptera,Brachycera,Syrphidae,Syrphinae,Scaeva,pollinator,albomaculata,hoverfly,scaalb,Hormathophylla spinosa,Brassicaceae,horspi,20150714,s,a,2,4
+250,Hymenoptera,Aculeata,Vespidae,Vespinae,Polistes,predator,biglumis,,polbig,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150707,h,w,5,1
+251,Hymenoptera,Aculeata,Halictidae,Halictinae,Lasioglossum,pollinator,cupromicans,bee,lascup,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150707,h,w,5,1
+252,Hymenoptera,Aculeata,Apidae,Apinae,Bombus,pollinator,terrestris lusitanicus,bumblebee,bomlun,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150711,h,w,5,3
+253,Diptera,Brachycera,Tachinidae,Exoristinae,Gonia,parasitoid,capitata,,goncap,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150711,h,w,5,3
+254,Coleoptera,Polyphaga,Malachiidae,Malachiinae,spA,predator,spA,,malspa,Hormathophylla spinosa,Brassicaceae,horspi,20150723,s,a,5,7
+255,Hymenoptera,Aculeata,Vespidae,Eumeninae,Ancistrocerus,predator,scoticus,,ancsco,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150710,h,w,2,3
+256,Coleoptera,Polyphaga,Chrysomelidae,Cryptocephalinae,Labidostomis,herbivore,sp,,labisp,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150710,h,w,2,3
+257,Hymenoptera,Aculeata,Megachilidae,Megachilinae,Hoplitis,pollinator,mitis granadae,bee,hopmit,Jasione amethystina,Campanulaceae,jasame,20150711,s,o,11,3
+258,Hymenoptera,Aculeata,Halictidae,Halictinae,Lasioglossum,pollinator,cupromicans,bee,lascup,Jasione amethystina,Campanulaceae,jasame,20150711,s,o,11,3
+259,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150707,h,a,6,1
+260,Diptera,Brachycera,Therevidae,sp,sp,pollinator,sp,fly,thersp,Hormathophylla spinosa,Brassicaceae,horspi,20150710,s,w,1,3
+261,Diptera,Brachycera,Syrphidae,Eristalinae,Eristalis,pollinator,tenax,fly,eriten,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150724,h,w,5,8
+262,Hymenoptera,Parasitica,Ichneumonidae,Cryptinae,Gelis,parasitoid,forticornis,,gelfor,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150719,h,w,2,6
+263,Hymenoptera,Aculeata,Megachilidae,Megachilinae,Megachile,pollinator,parietina,bee,megpar,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150706,h,w,14,1
+264,Hymenoptera,Parasitica,Ichneumonidae,Cryptinae,Gelis,parasitoid,fossae,,gelfos,Chaenorhinum glareosum,Scrophulariaceae,chagla,20150707,s,w,4,1
+265,Hymenoptera,Parasitica,Eurytomidae,Eurytominae,Bruchophagus,herbivore,sp,,bruchsp,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150719,s,o,1,6
+266,Lepidoptera,Glossata,Scythrididae,Scythridinae,Scythris,pollinator,iberica,butterfly,scyibe,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150709,h,w,8,2
+267,Hymenoptera,Parasitica,Ichneumonidae,Cryptinae,Gelis,parasitoid,fossae,,gelfos,Hormathophylla spinosa,Brassicaceae,horspi,20150711,s,a,3,3
+268,Hymenoptera,Aculeata,Megachilidae,Megachilinae,Megachile,pollinator,parietina,bee,megpar,Lotus corniculatus subsp glacialis,Fabaceae,lotcor,20150715,s,w,14,4
+269,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Sideritis glacialis,Lamiaceae,sidgla,20150714,h,w,9,4
+270,Diptera,Brachycera,Lonchaeidae,sp,sp,herbivore,sp,,loncsp,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150723,h,w,14,7
+271,Hymenoptera,Parasitica,Braconidae,Cheloninae,Chelonus,parasitoid,spB,,chespb,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150723,h,w,14,7
+272,Hymenoptera,Aculeata,Andrenidae,Panurginae,Panurgus,pollinator,cephalotes,bee,pancep,Leontodon boryi,Asteraceae,leobor,20150723,h,w,14,7
+273,Hymenoptera,Aculeata,Megachilidae,Megachilinae,Anthidium,pollinator,montanum,bee,antmon,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150716,h,w,12,5
+274,Diptera,Brachycera,Syrphidae,Syrphinae,Scaeva,pollinator,albomaculata,hoverfly,scaalb,Leucanthemopsis pectinata,Asteraceae,leupec,20150723,s,o,13,7
+275,Lepidoptera,Rhopalocera,Lycaenidae,Polyommatinae,Lampides,pollinator,boeticus,butterfly,lamboe,Sideritis glacialis,Lamiaceae,sidgla,20150724,s,o,7,8
+276,Lepidoptera,Rhopalocera,Pieridae,Pierinae,Pieris,pollinator,rapae,butterfly,pierap,Hormathophylla spinosa,Brassicaceae,horspi,20150710,s,a,5,3
+277,Lepidoptera,Rhopalocera,Lycaenidae,Polyommatinae,Polyommatus,pollinator,icarus,butterfly,polica,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150708,h,a,2,2
+278,Lepidoptera,Rhopalocera,Nymphalidae,Heliconiinae,Issoria,pollinator,lathonia,butterfly,isslat,Leucanthemopsis pectinata,Asteraceae,leupec,20150727,s,o,5,9
+279,Lepidoptera,Rhopalocera,Lycaenidae,Polyommatinae,Polyomathus,pollinator,belargus,butterfly,polbel,Sideritis glacialis,Lamiaceae,sidgla,20150709,h,o,8,2
+282,Hymenoptera,Aculeata,Megachilidae,Megachilinae,Hoplitis,pollinator,mitis granadae,bee,hopmit,Jasione amethystina,Campanulaceae,jasame,20150710,h,w,11,3
+283,Diptera,Nematocera,Sciaridae,sp,sp,scavenger,sp,,sciasp,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150709,h,w,11,2
+284,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150706,h,a,3,1
+285,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Hormathophylla spinosa,Brassicaceae,horspi,20150706,s,w,2,1
+286,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Hormathophylla spinosa,Brassicaceae,horspi,20150706,s,a,2,1
+287,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Hormathophylla spinosa,Brassicaceae,horspi,20150706,s,a,3,1
+288,Hymenoptera,Aculeata,Megachilidae,Megachilinae,Megachile,pollinator,parietina,bee,megpar,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150706,s,o,12,1
+289,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Hormathophylla spinosa,Brassicaceae,horspi,20150706,s,a,9,1
+290,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Hormathophylla spinosa,Brassicaceae,horspi,20150706,s,w,9,1
+291,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Jasione amethystina,Campanulaceae,jasame,20150706,h,w,7,1
+292,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150706,h,w,7,1
+293,Diptera,Brachycera,Bombyliidae,spB,spB,pollinator,spB,fly,bomspb,Jasione amethystina,Campanulaceae,jasame,20150706,h,w,13,1
+294,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150706,h,a,12,1
+295,Diptera,Brachycera,Syrphidae,Eristalinae,Eristalis,pollinator,tenax,hoverfly,eriten,Hormathophylla spinosa,Brassicaceae,horspi,20150706,s,a,6,1
+296,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Hormathophylla spinosa,Brassicaceae,horspi,20150706,s,w,6,1
+297,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Hormathophylla spinosa,Brassicaceae,horspi,20150706,s,a,12,1
+298,Hymenoptera,Aculeata,Megachilidae,Megachilinae,Megachile,pollinator,parietina,bee,megpar,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150706,s,o,12,1
+299,Diptera,Brachycera,Syrphidae,Eristalinae,Eristalis,pollinator,tenax,fly,eriten,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150706,h,w,14,1
+300,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150706,h,w,14,1
+301,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Hormathophylla spinosa,Brassicaceae,horspi,20150707,s,a,14,1
+302,Hymenoptera,Aculeata,Apidae,Apinae,Bombus,pollinator,vestalis,bumblebee,bomves,Hormathophylla spinosa,Brassicaceae,horspi,20150707,s,w,14,1
+303,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Hormathophylla spinosa,Brassicaceae,horspi,20150707,s,w,13,1
+304,Hymenoptera,Aculeata,Megachilidae,Megachilinae,Megachile,pollinator,parietina,bee,megpar,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150707,h,o,2,1
+305,Hymenoptera,Aculeata,Halictidae,Halictinae,Lasioglossum,pollinator,cupromicans,bee,lascup,Jasione amethystina,Campanulaceae,jasame,20150707,s,o,4,1
+306,Diptera,Brachycera,Syrphidae,Eristalinae,Eristalis,pollinator,tenax,hoverfly,eriten,Hormathophylla spinosa,Brassicaceae,horspi,20150707,s,w,4,1
+307,Diptera,Brachycera,Syrphidae,Syrphinae,Scaeva,pollinator,albomaculata,hoverfly,scaalb,Lotus corniculatus subsp glacialis,Fabaceae,lotcor,20150707,s,o,8,1
+308,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150708,h,a,12,2
+309,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Hormathophylla spinosa,Brassicaceae,horspi,20150708,s,a,11,2
+310,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150708,h,w,14,2
+311,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150708,h,a,14,2
+312,Diptera,Brachycera,Syrphidae,Eristalinae,Eristalis,pollinator,tenax,hoverfly,eriten,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150708,h,w,7,2
+313,Diptera,Brachycera,Syrphidae,Eristalinae,Eristalis,pollinator,tenax,hoverfly,eriten,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150708,h,a,7,2
+314,Hymenoptera,Aculeata,Halictidae,Halictinae,Lasioglossum,pollinator,cupromicans,bee,lascup,Jasione amethystina,Campanulaceae,jasame,20150708,h,w,7,2
+315,Hymenoptera,Aculeata,Megachilidae,Megachilinae,sp,pollinator,sp,bee,mgchsp,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150708,h,a,9,2
+316,Hymenoptera,Aculeata,Megachilidae,Megachilinae,sp,pollinator,sp,bee,mgchsp,Sideritis glacialis,Lamiaceae,sidgla,20150708,h,w,9,2
+317,Lepidoptera,Rhopalocera,Lycaenidae,Polyommatinae,Lampides,pollinator,boeticus,butterfly,lamboe,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150708,h,w,1,2
+318,Coleoptera,Polyphaga,Chrysomelidae,Galerucinae,Galeruca,pollinator,sp,other,galesp,Hormathophylla spinosa,Brassicaceae,horspi,20150708,s,w,10,2
+319,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Hormathophylla spinosa,Brassicaceae,horspi,20150708,s,a,10,2
+320,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150708,h,w,1,2
+321,Diptera,Brachycera,Syrphidae,Eristalinae,Eristalis,pollinator,tenax,hoverfly,eriten,Hormathophylla spinosa,Brassicaceae,horspi,20150708,s,a,2,2
+322,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Hormathophylla spinosa,Brassicaceae,horspi,20150708,s,w,2,2
+323,Coleoptera,Polyphaga,Chrysomelidae,Galerucinae,Galeruca,pollinator,sp,other,galesp,Hormathophylla spinosa,Brassicaceae,horspi,20150708,s,a,1,2
+324,Hymenoptera,Aculeata,Megachilidae,Megachilinae,Megachile,pollinator,parietina,bee,megpar,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150708,s,o,1,2
+325,Diptera,Brachycera,Syrphidae,Eristalinae,Eristalis,pollinator,tenax,hoverfly,eriten,Hormathophylla spinosa,Brassicaceae,horspi,20150708,s,w,13,2
+326,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Hormathophylla spinosa,Brassicaceae,horspi,20150708,s,a,13,2
+327,Diptera,Brachycera,Syrphidae,Eristalinae,Eristalis,pollinator,tenax,hoverfly,eriten,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150709,h,a,5,2
+328,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150709,h,w,5,2
+329,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Hormathophylla spinosa,Brassicaceae,horspi,20150709,s,a,4,2
+330,Hymenoptera,Aculeata,Apidae,Apinae,Bombus,pollinator,vestalis,bumblebee,bomves,Jasione amethystina,Campanulaceae,jasame,20150709,h,w,6,2
+331,Hymenoptera,Aculeata,Colletidae,Colletinae,Colletes,pollinator,schmidi,bee,colsch,Jasione amethystina,Campanulaceae,jasame,20150709,h,w,6,2
+332,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150709,h,w,6,2
+333,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Hormathophylla spinosa,Brassicaceae,horspi,20150709,s,w,9,2
+334,Lepidoptera,Rhopalocera,Lycaenidae,Polyommatinae,Lampides,pollinator,boeticus,butterfly,lamboe,Sideritis glacialis,Lamiaceae,sidgla,20150717,s,w,7,7
+335,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Hormathophylla spinosa,Brassicaceae,horspi,20150709,s,a,9,2
+336,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Hormathophylla spinosa,Brassicaceae,horspi,20150709,s,w,9,2
+337,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Hormathophylla spinosa,Brassicaceae,horspi,20150709,s,w,14,2
+338,Hymenoptera,Aculeata,Andrenidae,Andreninae,Andrena,pollinator,ovatula,bee,andova,Hormathophylla spinosa,Brassicaceae,horspi,20150709,s,a,14,2
+339,Hymenoptera,Aculeata,Megachilidae,Megachilinae,sp,pollinator,sp,bee,mgchsp,Lotus corniculatus subsp glacialis,Fabaceae,lotcor,20150709,s,o,14,2
+340,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150709,h,w,11,2
+341,Hymenoptera,Aculeata,Megachilidae,Megachilinae,sp,pollinator,sp,bee,mgchsp,Jasione amethystina,Campanulaceae,jasame,20150709,h,w,11,2
+342,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150709,h,a,3,2
+343,Hymenoptera,Aculeata,Apidae,Apinae,Bombus,pollinator,vestalis,bee,bomves,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150709,h,w,3,2
+344,Hymenoptera,Aculeata,Halictidae,Halictinae,Lasioglossum,pollinator,cupromicans,bee,lascup,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150709,h,o,3,2
+345,Hymenoptera,Aculeata,Halictidae,Halictinae,Lasioglossum,pollinator,cupromicans,bee,lascup,Lotus corniculatus subsp glacialis,Fabaceae,lotcor,20150709,s,o,8,2
+346,Hymenoptera,Aculeata,Megachilidae,Megachilinae,Megachile,pollinator,parietina,bee,megpar,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150709,s,o,12,2
+347,Diptera,Brachycera,Syrphidae,Syrphinae,Scaeva,pollinator,albomaculata,hoverfly,scaalb,Hormathophylla spinosa,Brassicaceae,horspi,20150709,s,w,12,2
+348,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Hormathophylla spinosa,Brassicaceae,horspi,20150709,s,a,7,2
+349,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Hormathophylla spinosa,Brassicaceae,horspi,20150710,s,a,10,3
+350,Diptera,Brachycera,Syrphidae,Syrphinae,Scaeva,pollinator,albomaculata,hoverfly,scaalb,Hormathophylla spinosa,Brassicaceae,horspi,20150710,s,w,2,3
+351,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Hormathophylla spinosa,Brassicaceae,horspi,20150710,s,a,1,3
+352,Hymenoptera,Aculeata,Megachilidae,Megachilinae,Megachile,pollinator,parietina,bee,megpar,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150710,s,o,1,3
+353,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Hormathophylla spinosa,Brassicaceae,horspi,20150710,s,w,14,3
+354,Hymenoptera,Aculeata,Megachilidae,Megachilinae,sp,pollinator,sp,bee,mgchsp,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150710,h,o,2,3
+355,Hymenoptera,Aculeata,Megachilidae,Megachilinae,Hoplitis,pollinator,mitis granadae,bee,hopmit,Jasione amethystina,Campanulaceae,jasame,20150710,h,w,11,3
+356,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150710,h,a,3,3
+357,Hymenoptera,Aculeata,Megachilidae,Megachilinae,sp,pollinator,sp,bee,mgchsp,Sideritis glacialis,Lamiaceae,sidgla,20150710,h,w,9,3
+358,Diptera,Brachycera,Syrphidae,Syrphinae,Scaeva,pollinator,albomaculata,hoverfly,scaalb,Hormathophylla spinosa,Brassicaceae,horspi,20150710,s,a,5,3
+359,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150710,h,w,9,3
+360,Hymenoptera,Aculeata,Megachilidae,Megachilinae,Megachile,pollinator,parietina,bee,megpar,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150710,h,w,12,3
+361,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Hormathophylla spinosa,Brassicaceae,horspi,20150711,s,w,12,3
+362,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150711,h,w,13,3
+363,Hymenoptera,Aculeata,Apidae,Apinae,Bombus,pollinator,vestalis,bumblebee,bomves,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150711,h,w,13,3
+364,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150710,h,w,3,3
+365,Diptera,Brachycera,Syrphidae,Syrphinae,Scaeva,pollinator,albomaculata,hoverfly,scaalb,Hormathophylla spinosa,Brassicaceae,horspi,20150711,s,w,11,3
+366,Hymenoptera,Aculeata,Megachilidae,Megachilinae,Hoplitis,pollinator,mitis granadae,bee,hopmit,Jasione amethystina,Campanulaceae,jasame,20150711,h,w,8,3
+367,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150711,h,w,8,3
+368,Hymenoptera,Aculeata,Megachilidae,Megachilinae,Megachile,pollinator,parietina,bee,megpar,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150711,s,w,6,3
+369,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Hormathophylla spinosa,Brassicaceae,horspi,20150711,s,a,13,3
+370,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Hormathophylla spinosa,Brassicaceae,horspi,20150711,s,a,13,3
+371,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Hormathophylla spinosa,Brassicaceae,horspi,20150711,s,w,13,3
+372,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150711,h,w,1,3
+373,Diptera,Brachycera,Syrphidae,Syrphinae,Scaeva,pollinator,albomaculata,hoverfly,scaalb,Jasione amethystina,Campanulaceae,jasame,20150711,h,w,1,3
+374,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Hormathophylla spinosa,Brassicaceae,horspi,20150714,s,a,2,4
+375,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Hormathophylla spinosa,Brassicaceae,horspi,20150714,s,w,5,4
+376,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Hormathophylla spinosa,Brassicaceae,horspi,20150714,s,a,5,4
+377,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Hormathophylla spinosa,Brassicaceae,horspi,20150714,s,a,11,4
+378,Diptera,Brachycera,Syrphidae,Eristalinae,Eristalis,pollinator,tenax,hoverfly,eriten,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150714,h,a,14,4
+379,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150714,h,w,14,4
+380,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150714,h,a,2,4
+381,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150714,h,w,12,4
+382,Hymenoptera,Aculeata,Megachilidae,Megachilinae,Megachile,pollinator,parietina,bee,megpar,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150715,s,o,9,4
+383,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Hormathophylla spinosa,Brassicaceae,horspi,20150715,s,w,8,4
+384,Diptera,Brachycera,Syrphidae,Eristalinae,Eristalis,pollinator,tenax,hoverfly,eriten,Hormathophylla spinosa,Brassicaceae,horspi,20150715,s,a,9,4
+385,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150715,h,w,11,4
+386,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150715,h,a,1,4
+387,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150715,h,w,1,4
+388,Hymenoptera,Aculeata,Megachilidae,Megachilinae,sp,pollinator,sp,bee,mgchsp,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150711,h,w,1,3
+389,Diptera,Brachycera,Syrphidae,Eristalinae,Eristalis,pollinator,tenax,hoverfly,eriten,Hormathophylla spinosa,Brassicaceae,horspi,20150715,s,w,14,4
+390,Hymenoptera,Aculeata,Megachilidae,Megachilinae,Megachile,pollinator,parietina,bee,megpar,Lotus corniculatus subsp glacialis,Fabaceae,lotcor,20150715,s,w,14,4
+391,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Hormathophylla spinosa,Brassicaceae,horspi,20150715,s,a,14,4
+392,Diptera,Brachycera,Syrphidae,Eristalinae,Eristalis,pollinator,tenax,hoverfly,eriten,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150715,h,a,6,4
+393,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Sideritis glacialis,Lamiaceae,sidgla,20150716,h,w,9,5
+394,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Sideritis glacialis,Lamiaceae,sidgla,20150716,h,w,9,5
+395,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Sideritis glacialis,Lamiaceae,sidgla,20150716,h,o,8,5
+396,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Sideritis glacialis,Lamiaceae,sidgla,20150716,h,o,8,5
+397,Hymenoptera,Aculeata,Anthophoridae,Xylocopinae,Xylocopa,pollinator,valga,bee,xylval,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150716,h,o,8,5
+398,Diptera,Brachycera,Syrphidae,Syrphinae,Scaeva,pollinator,albomaculata,hoverfly,scaalb,Hormathophylla spinosa,Brassicaceae,horspi,20150716,s,a,3,5
+399,Hymenoptera,Aculeata,Anthophoridae,Xylocopinae,Xylocopa,pollinator,valga,bee,xylval,Lotus corniculatus subsp glacialis,Fabaceae,lotcor,20150716,h,w,12,5
+400,Diptera,Brachycera,Syrphidae,Eristalinae,Eristalis,pollinator,tenax,hoverfly,eriten,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150716,h,w,3,5
+401,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Sideritis glacialis,Lamiaceae,sidgla,20150716,h,w,9,5
+402,Hymenoptera,Aculeata,Anthophoridae,Xylocopinae,Xylocopa,pollinator,valga,bee,xylval,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150716,h,w,14,5
+403,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Sideritis glacialis,Lamiaceae,sidgla,20150716,s,o,6,5
+404,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Hormathophylla spinosa,Brassicaceae,horspi,20150716,s,w,2,5
+405,Hymenoptera,Aculeata,Megachilidae,Megachilinae,sp,pollinator,sp,bee,mgchsp,Jasione amethystina,Campanulaceae,jasame,20150716,s,w,2,5
+406,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Sideritis glacialis,Lamiaceae,sidgla,20150717,s,o,7,5
+406,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Sideritis glacialis,Lamiaceae,sidgla,20150717,s,o,7,5
+407,Diptera,Brachycera,Syrphidae,Eristalinae,Eristalis,pollinator,tenax,hoverfly,eriten,Hormathophylla spinosa,Brassicaceae,horspi,20150717,s,w,14,5
+408,Hymenoptera,Aculeata,Megachilidae,Megachilinae,Megachile,pollinator,parietina,bee,megpar,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150717,h,o,1,5
+409,Hymenoptera,Aculeata,Megachilidae,Megachilinae,sp,pollinator,sp,bee,mgchsp,Jasione amethystina,Campanulaceae,jasame,20150717,h,w,4,5
+410,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150717,h,w,4,5
+411,Diptera,Brachycera,Syrphidae,Eristalinae,Eristalis,pollinator,tenax,hoverfly,eriten,Leucanthemopsis pectinata,Asteraceae,leupec,20150717,s,o,13,5
+412,Hymenoptera,Aculeata,Anthophoridae,Xylocopinae,Xylocopa,pollinator,valga,bee,xylval,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150717,s,w,1,5
+413,Hymenoptera,Aculeata,Megachilidae,Megachilinae,sp,pollinator,sp,bee,mgchsp,Sideritis glacialis,Lamiaceae,sidgla,20150717,h,o,5,5
+414,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Sideritis glacialis,Lamiaceae,sidgla,20150717,h,o,5,5
+415,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Sideritis glacialis,Lamiaceae,sidgla,20150717,h,o,5,5
+416,Hymenoptera,Aculeata,Halictidae,Halictinae,Lasioglossum,pollinator,cupromicans,bee,lascup,Jasione amethystina,Campanulaceae,jasame,20150717,h,o,4,5
+417,Diptera,Brachycera,Syrphidae,Syrphinae,Scaeva,pollinator,albomaculata,hoverfly,scaalb,Hormathophylla spinosa,Brassicaceae,horspi,20150716,s,w,6,5
+418,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Sideritis glacialis,Lamiaceae,sidgla,20150718,s,o,6,6
+419,Hymenoptera,Aculeata,Anthophoridae,Xylocopinae,Xylocopa,pollinator,valga,bee,xylval,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150718,h,o,8,6
+420,Diptera,Brachycera,Syrphidae,Syrphinae,Scaeva,pollinator,albomaculata,hoverfly,scaalb,Hormathophylla spinosa,Brassicaceae,horspi,20150718,s,a,13,6
+421,Hymenoptera,Aculeata,Anthophoridae,Xylocopinae,Xylocopa,pollinator,valga,bee,xylval,Sideritis glacialis,Lamiaceae,sidgla,20150718,h,w,9,6
+422,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Sideritis glacialis,Lamiaceae,sidgla,20150718,h,w,9,6
+423,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Sideritis glacialis,Lamiaceae,sidgla,20150718,h,o,9,6
+424,Lepidoptera,Glossata,Sphingidae,Macroglossinae,Macroglossum,pollinator,stellatarum,bee,macste,Chaenorhinum glareosum,Scrophulariaceae,chagla,20150718,s,w,3,6
+425,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150718,h,a,9,6
+426,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Arenaria tetraquetra subsp amabilis,Brassicaceae,aretet,20150718,h,w,4,6
+427,Hymenoptera,Aculeata,Apidae,Apinae,Bombus,pollinator,vestalis,bee,bomves,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150719,h,a,2,6
+428,Hymenoptera,Aculeata,Anthophoridae,Xylocopinae,Xylocopa,pollinator,valga,bee,xylval,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150719,h,w,2,6
+429,Diptera,Brachycera,Syrphidae,Eristalinae,Eristalis,pollinator,tenax,hoverfly,eriten,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150719,h,w,6,6
+430,Diptera,Brachycera,Syrphidae,Eristalinae,Eristalis,pollinator,tenax,hoverfly,eriten,Leucanthemopsis pectinata,Asteraceae,leupec,20150719,h,w,6,6
+431,Diptera,Brachycera,Syrphidae,Syrphinae,Scaeva,pollinator,albomaculata,hoverfly,scaalb,Leucanthemopsis pectinata,Asteraceae,leupec,20150719,h,w,6,6
+432,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150719,h,a,14,6
+433,Hymenoptera,Aculeata,Anthophoridae,Xylocopinae,Xylocopa,pollinator,valga,bee,xylval,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150719,h,w,14,6
+434,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150719,h,w,10,6
+435,Diptera,Brachycera,Syrphidae,Eristalinae,Eristalis,pollinator,tenax,hoverfly,eriten,Hormathophylla spinosa,Brassicaceae,horspi,20150719,s,w,7,6
+436,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Hormathophylla spinosa,Brassicaceae,horspi,20150719,s,a,7,6
+437,Hymenoptera,Aculeata,Anthophoridae,Xylocopinae,Xylocopa,pollinator,valga,bee,xylval,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150723,h,o,13,7
+438,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Sideritis glacialis,Lamiaceae,sidgla,20150723,s,o,8,7
+439,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Sideritis glacialis,Lamiaceae,sidgla,20150723,s,o,7,7
+440,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Sideritis glacialis,Lamiaceae,sidgla,20150723,s,o,7,7
+441,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Sideritis glacialis,Lamiaceae,sidgla,20150723,s,o,7,7
+442,Diptera,Brachycera,Bombyliidae,spA,spA,pollinator,spA,fly,bomspa,Hormathophylla spinosa,Brassicaceae,horspi,20150723,s,a,13,7
+443,Hymenoptera,Aculeata,Andrenidae,Panurginae,Panurgus,pollinator,cephalotes,bee,pancep,Leucanthemopsis pectinata,Asteraceae,leupec,20150723,s,w,13,7
+444,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Sideritis glacialis,Lamiaceae,sidgla,20150723,h,o,5,7
+445,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Sideritis glacialis,Lamiaceae,sidgla,20150723,s,o,8,7
+446,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Sideritis glacialis,Lamiaceae,sidgla,20150723,s,o,8,7
+447,Diptera,Brachycera,Syrphidae,Syrphinae,Scaeva,pollinator,albomaculata,hoverfly,scaalb,Crepis oporinoides,Asteraceae,creopo,20150723,s,o,8,7
+448,Diptera,Brachycera,Syrphidae,Eristalinae,Eristalis,pollinator,tenax,hoverfly,eriten,Hormathophylla spinosa,Brassicaceae,horspi,20150723,s,w,14,7
+449,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Sideritis glacialis,Lamiaceae,sidgla,20150724,s,o,6,8
+450,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Sideritis glacialis,Lamiaceae,sidgla,20150724,s,o,6,8
+451,Hymenoptera,Aculeata,Megachilidae,Megachilinae,Megachile,pollinator,parietina,bee,megpar,Sideritis glacialis,Lamiaceae,sidgla,20150724,s,o,6,8
+452,Diptera,Brachycera,Syrphidae,Eristalinae,Eristalis,pollinator,tenax,hoverfly,eriten,Hormathophylla spinosa,Brassicaceae,horspi,20150724,s,w,6,8
+453,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Sideritis glacialis,Lamiaceae,sidgla,20150724,h,o,5,8
+454,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Sideritis glacialis,Lamiaceae,sidgla,20150724,h,o,5,8
+455,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Sideritis glacialis,Lamiaceae,sidgla,20150724,h,o,5,8
+456,Hymenoptera,Aculeata,Anthophoridae,Xylocopinae,Xylocopa,pollinator,valga,bee,xylval,Lotus corniculatus subsp glacialis,Fabaceae,lotcor,20150724,s,o,14,8
+457,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Sideritis glacialis,Lamiaceae,sidgla,20150724,s,o,8,8
+458,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Sideritis glacialis,Lamiaceae,sidgla,20150724,s,o,8,8
+459,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Sideritis glacialis,Lamiaceae,sidgla,20150724,s,w,7,8
+460,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Sideritis glacialis,Lamiaceae,sidgla,20150724,s,o,7,8
+461,Hymenoptera,Aculeata,Apidae,Apinae,Bombus,pollinator,vestalis,bumblebee,bomves,Sideritis glacialis,Lamiaceae,sidgla,20150727,s,o,7,9
+462,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Sideritis glacialis,Lamiaceae,sidgla,20150727,s,o,7,9
+463,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Sideritis glacialis,Lamiaceae,sidgla,20150727,s,w,7,9
+464,Hymenoptera,Aculeata,Megachilidae,Megachilinae,sp,pollinator,sp,bee,mgchsp,Anthyllis vulneraria subsp pseudoarundana,Fabaceae,antvul,20150727,h,w,7,9
+465,Hymenoptera,Aculeata,Megachilidae,sp,sp,pollinator,sp,bee,megasp,Lotus corniculatus subsp glacialis,Fabaceae,lotcor,20150727,h,w,13,9
+466,Hymenoptera,Aculeata,Andrenidae,Panurginae,Panurgus,pollinator,cephalotes,bee,pancep,Leucanthemopsis pectinata,Asteraceae,leupec,20150727,s,o,13,9
+467,Hymenoptera,Aculeata,Megachilidae,sp,sp,pollinator,sp,bee,megasp,Lotus corniculatus subsp glacialis,Fabaceae,lotcor,20150727,s,o,14,9
+468,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Sideritis glacialis,Lamiaceae,sidgla,20150727,s,o,6,9
+469,Hymenoptera,Aculeata,Apidae,Apinae,Apis,pollinator,mellifera,bee,apimel,Sideritis glacialis,Lamiaceae,sidgla,20150727,s,o,6,9
+470,Diptera,Brachycera,Syrphidae,Eristalinae,Eristalis,pollinator,tenax,hoverfly,eriten,Arenaria tetraquetra subsp amabilis,Caryophyllaceae,aretet,20150727,h,w,1,9
+471,Hymenoptera,Aculeata,Megachilidae,Megachilinae,Megachile,pollinator,parietina,bee,megpar,Lotus corniculatus subsp glacialis,Fabaceae,lotcor,20150727,s,o,14,9
+472,Hymenoptera,Aculeata,Colletidae,Colletinae,Colletes,pollinator,schmidi,bee,colsch,Hormathophylla spinosa,Brassicaceae,horspi,20150727,s,a,7,9
